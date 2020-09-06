@@ -18,3 +18,5 @@ Team members:
 4.Janvi Solanki
 
 <img src="https://user-images.githubusercontent.com/54734951/92319067-467f4b80-f032-11ea-8725-52d1cd170778.jpg" height=200 width=140>
+<img src="https://user-images.githubusercontent.com/54734951/92319086-89412380-f032-11ea-8b4d-e23b252ae9a9.jpg" height=200 width=140>
+<img src="https://user-images.githubusercontent.com/54734951/92319088-91995e80-f032-11ea-975f-9bd31d03af76.jpg" height=200 width=140>
